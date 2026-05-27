@@ -1,6 +1,7 @@
 # nautilus-ghostty
 
 A Nautilus extension that adds an **"Open in Ghostty"** context menu entry when right-clicking folders or the background in Nautilus.
+Vibecoded by Claude Sonnet 4.6 adaptive.
 
 ## Requirements
 
